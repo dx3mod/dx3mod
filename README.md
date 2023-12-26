@@ -4,7 +4,7 @@ My name is Mikhail, 20 years old. I live somewhere near Moscow. At the moment I 
 
 <!-- - I’m currently learning Python (meh) and its backend stack; -->
 
-Also I use GNU/Linux as my main system btw...
+<!-- Also I use GNU/Linux as my main system btw... -->
 
 <!--
 I know Rust and am currently learning Python and its backend stack.
