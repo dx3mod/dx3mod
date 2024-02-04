@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-My name is Mikhail, 20 years old. I live somewhere near Moscow. At the moment I am studying at [MPT](https://mpt.ru/) on specialty "Computer systems and complexes", where I study embedded systems, computer networks and something else stuff. 
+My name is Mikhail, 20 years old. I live somewhere near Moscow. At the moment I am studying at [MPT](https://mpt.ru/) on specialty "Computer systems and complexes", where I study embedded systems, computer networks and some other stuff. 
 
 [//]: # (Contact me: <a href = "mailto: unqtd@bk.ru">unqtd@bk.ru</a>. )
 
