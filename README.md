@@ -1,7 +1,9 @@
 <!-- ### Hi there 👋 -->
 
 My name is Mikhail, I am 20 years old. I live somewhere near Moscow. 
-And now I am writing my degree work...
+<!-- And now I am in an active search for a job....  -->
+
+<!-- And now I am writing my degree work... -->
 
 <!-- At the moment I am studying at [MPT](https://mpt.ru/) on specialty "Computer systems and complexes", where I study embedded systems, computer networks and some other stuff.  -->
 
