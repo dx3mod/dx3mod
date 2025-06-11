@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-Yo! My name'a Mikhail, I'm 21 y.o. And now I live somewhere in the south.
+Yo! My name's Mikhail, I'm 21 y.o. And now I live somewhere in the south.
 <!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
 
