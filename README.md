@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-My name is Mikhail, I am 21 years old. I live somewhere near Moscow. 
+My name is Mikhail, I am 21 years old. And now I live somewhere in the south. 
+<!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
 
 <!-- And now I am writing my degree work... -->
