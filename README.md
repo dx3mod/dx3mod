@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-Yo! My name's Mikhail. I'm 21 years old and now I live somewhere in the South. 
+Yo! My name's Mikhail. I'm 21 y/o and now I live somewhere in the South. 
 I like quasi-functional programming (in OCaml) and write non-trivial things like development tools, libraries and other.
 
 
