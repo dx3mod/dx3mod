@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋 -->
 
 Yo! My name's Mikhail, I'm 21 y.o. And now I live somewhere in the south.
+I like quasi-functional programming and similar things.
+
 <!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
 
