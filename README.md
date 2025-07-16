@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 
 Yo! My name's Mikhail, I'm 21 y.o. And now I live somewhere in the south.
-I like quasi-functional programming and similar things.
+I like quasi-functional programming (in OCaml) and write non-trivial things
+like development tools, libraries, etc.
 
 <!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
