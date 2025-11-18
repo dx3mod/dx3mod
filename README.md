@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-Yo! My name's Mikhail. I'm 21 y/o and now I live somewhere in the Caucasus region where starting out in my adult life.
+Yo! My name's Mikhail. I'm 22 y/o and now I live somewhere in the Caucasus region where starting out in my adult life.
 I like quasi-functional programming (in OCaml) and write non-trivial things like development tools, libraries and other.
 
 
