@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-Yo! My name's Mikhail, 22 y/o, somewhere from Russia.
+Yo! My name's Mikhail, 22 y/o.
 I like quasi-functional programming (in OCaml) and write non-trivial things like development tools, libraries and other.
 
 
