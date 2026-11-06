@@ -3,6 +3,25 @@
 Yo! My name's Mikhail, 22 y/o.
 I like quasi-functional programming (in OCaml) and write non-trivial things like development tools, libraries and other.
 
+My projects
+
+- [OCaml Portal] website
+- Programs 
+  - [Burav], a utility for burning firmware onto AVR MCUs
+  - [c_of_ocaml], a compiler from OCaml bytecode to standalone ANSI C
+- Libraries
+  - [Bytream], a streaming bytes and crunching them library
+  - [Rpmfile], a pure OCaml library for parsing RPM files
+  - [Atdf.ml], an Atmel's ATDF files parsing library
+
+
+[OCaml Portal]: https://ocamlportal.ru
+[Burav]: https://github.org/dx3mod/burav
+[c_of_ocaml]: https://github.org/dx3mod/c_of_ocaml
+[Bytream]: https://github.org/dx3mod/bytream
+[Rpmfile]: https://github.org/dx3mod/rpmfile
+[Atdf.ml]: https://github.org/dx3mod/atdf.ml
+
 
 <!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
