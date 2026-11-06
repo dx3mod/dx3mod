@@ -13,6 +13,8 @@ My projects
   - [Bytream], a streaming bytes and crunching them library
   - [Rpmfile], a pure OCaml library for parsing RPM files
   - [Atdf.ml], an Atmel's ATDF files parsing library
+  - [Hexen], yet another library for encoding and decoding hexadecimal byte sequences
+  - [Intel_hex], an Intel HEX manipulation library
 
 
 [OCaml Portal]: https://ocamlportal.ru
@@ -21,7 +23,8 @@ My projects
 [Bytream]: https://github.org/dx3mod/bytream
 [Rpmfile]: https://github.org/dx3mod/rpmfile
 [Atdf.ml]: https://github.org/dx3mod/atdf.ml
-
+[Hexen]: https://github.com/dx3mod/hexen
+[Intel_hex]: https://github.com/dx3mod/intel_hex
 
 <!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
