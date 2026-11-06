@@ -3,6 +3,7 @@
 Yo! My name's Mikhail, 22 y/o.
 I like quasi-functional programming (in OCaml) and write non-trivial things like development tools, libraries and other.
 
+<!--
 My projects
 
 - [OCaml Portal] website
@@ -27,6 +28,7 @@ My projects
 [Hexen]: https://github.com/dx3mod/hexen
 [Intel_hex]: https://github.com/dx3mod/intel_hex
 [Serialport]: https://github.com/dx3mod/serialport
+-->
 
 <!-- I live somewhere near Moscow. -->
 <!-- And now I am in an active search for a job....  -->
